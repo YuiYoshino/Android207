@@ -1,0 +1,42 @@
+{
+    "cmStudents": {
+        "list": [
+            {
+                "id": "22cm0199",
+                "name": "やまだたろう",
+                "age": 20,
+                "hasOCJP": false,
+                "info": {
+                    "like": "映画鑑賞", 
+                    "food": "ラーメン", 
+                    "game": "パズドラ",
+                    "hp": "https://www.jec.ac.jp"
+                }
+            },
+            {
+                "id": "22cm0198",
+                "name": "よしだたくろう",
+                "age": 20,
+                "hasOCJP": false,
+                "info": {
+                    "like": "映画鑑賞",
+                    "food": "ラーメン",
+                    "game": "モンスト",
+                    "hp": "https://www.jec.ac.jp"
+                }
+            },
+            {
+                "id": "22cm0199",
+                "name": "やまいわしょう",
+                "age": 19,
+                "hasOCJP": true,
+                "info": {
+                    "like": "読書",
+                    "food": "すし",
+                    "game": "パズドラ",
+                    "hp": "https://www.google.com"
+                }
+            }
+        ]
+    }
+}
